@@ -2,7 +2,6 @@
 
 **NatureSpeak** is an interactive VR-based educational application designed to help 12-13-year-old children improve their English language skills. By immersing users in a virtual forest filled with animated 3D animals, the application combines fun exploration with educational content to enhance vocabulary, listening, and reading comprehension.
 
----
 
 ## 🎯 Project Goals
 
@@ -10,7 +9,7 @@
 - Encourage vocabulary acquisition, listening, and reading skills through interactive 3D content.
 - Create an expandable learning platform with modules based on various natural environments.
 
----
+
 
 ## 🧭 Features
 
@@ -34,14 +33,14 @@
 - The forest is the first learning module.
 - Future modules may include environments like the farm, ocean, or space.
 
----
+
 
 ## 🧑‍🏫 Target Audience
 
 - Children aged 12–13 learning English as a second language.
 - Designed with visual and auditory learners in mind.
 
----
+
 
 ## 🔧 Technologies Used
 
@@ -50,7 +49,7 @@
 - **C#** – Game logic and interaction scripting.
 - **Unity VR SDK** – Integration with devices like Oculus Quest or HTC Vive.
 
----
+
 
 ## 📦 Project Structure
 
