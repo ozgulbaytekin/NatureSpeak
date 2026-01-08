@@ -1,4 +1,4 @@
-# 🌳 VR English Forest: Interactive Language Learning
+#  VR English Forest: Interactive Language Learning
 
 **NatureSpeak** is an interactive VR-based educational application designed to help 12-13-year-old children improve their English language skills. By immersing users in a virtual forest filled with animated 3D animals, the application combines fun exploration with educational content to enhance vocabulary, listening, and reading comprehension.
 
